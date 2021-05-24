@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blow_gun_poison_dart"
+      },
+      "name": "default"
+    }
+  }
+}

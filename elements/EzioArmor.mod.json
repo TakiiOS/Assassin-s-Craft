@@ -1,0 +1,61 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "eziohelmet",
+    "enableBody": true,
+    "textureBody": "eziobody",
+    "enableLeggings": true,
+    "textureLeggings": "eziolegs",
+    "enableBoots": true,
+    "textureBoots": "ezioboots",
+    "onBootsTick": {
+      "name": "Climb"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "armorTextureFile": "ezio_",
+    "helmetName": "Ezio Auditore Helmet",
+    "bodyName": "Ezio Auditore Body",
+    "leggingsName": "Ezio Auditore Leggings",
+    "bootsName": "Ezio Auditore Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 50,
+    "damageValueHelmet": 5,
+    "damageValueBody": 5,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 5,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

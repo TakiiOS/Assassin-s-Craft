@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "altair_sword",
+    "customModelName": "Normal",
+    "name": "Altaïr´s sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.0,
+    "enchantability": 4,
+    "damageVsEntity": 7.3999999999999995,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EagleFeather"
+      },
+      {
+        "value": "CUSTOM:Altairsword"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

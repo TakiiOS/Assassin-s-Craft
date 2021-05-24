@@ -1,0 +1,39 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "pistol",
+    "customModelName": "pistol_flintnock:default",
+    "name": "Pistol",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Bullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "CUSTOM:pistolshot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 2.0,
+    "onRangedItemUsed": {
+      "name": "PistolRangedItemUsed"
+    },
+    "bulletPower": 2.5,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

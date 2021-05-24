@@ -1,0 +1,45 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "_omahawk",
+    "customModelName": "connors_tomahawk:default",
+    "name": "Tomahawk",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 10.0,
+    "onRangedItemUsed": {
+      "name": "TomahawkRangedItemUsed"
+    },
+    "bulletPower": 0.7000000000000001,
+    "bulletDamage": 9.0,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Axebull"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "axe1.png",
+    "onBulletHitsBlock": {
+      "name": "TomahawkBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "TomahawkBulletHitsLivingEntity"
+    }
+  }
+}

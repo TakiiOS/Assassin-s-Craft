@@ -1,0 +1,33 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "assassin_s_creed_syndicate_cane_sword_cerrado",
+    "customModelName": "Normal",
+    "name": "Cane Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.5,
+    "attackSpeed": 2.5,
+    "enchantability": 4,
+    "damageVsEntity": 2.5,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CaneSword"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "CaneSwordRightClickedOnBlock"
+    }
+  }
+}

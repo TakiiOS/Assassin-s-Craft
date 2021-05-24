@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "riflebullet",
+    "customModelName": "bullet_air_rifle:default",
+    "name": "Rifle Bullet",
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.1,
+    "specialInfo": [],
+    "hasGlow": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 10,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "U",
+    "keyBindingName": "Close phantom blade",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Close_phantom_blade_On_Key_Pressed"
+    }
+  }
+}

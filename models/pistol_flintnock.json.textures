@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brown",
+        "1": "greyf",
+        "2": "greyd",
+        "3": "greyc",
+        "4": "brass",
+        "5": ""
+      },
+      "name": "default"
+    }
+  }
+}

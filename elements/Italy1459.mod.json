@@ -1,0 +1,63 @@
+{
+  "_fv": 10,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:TombEzio"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Italy1459 Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "texture": "nosexd",
+    "portalTexture": "portal",
+    "enablePortal": false,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:ItalianPlains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "Italy1459PlayerEntersDimension"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "Italy1459PlayerLeavesDimension"
+    }
+  }
+}

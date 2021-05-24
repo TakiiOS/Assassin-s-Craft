@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 280,
+    "height": 210,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "descarga.png",
+          "name": "descarga.png",
+          "x": 296,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Camp",
+          "onClick": {
+            "name": "ReturnfromItaly"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "Camp",
+          "x": 435,
+          "y": 206
+        }
+      }
+    ]
+  }
+}

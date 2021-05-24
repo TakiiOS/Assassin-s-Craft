@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "calaca",
+        "1": "assasin_tomb",
+        "2": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "blowgun_2d",
+    "customModelName": "blowgun:default",
+    "name": "Blowpipe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:PoisonBlowgunDart"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "Blowgun_Ranged_Item_Used"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 2.5,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Blowgun_poison_dart_3d"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "Blowgun_Bullet_Hits_Living_Entity"
+    }
+  }
+}

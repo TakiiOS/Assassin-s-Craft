@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fdsvdsdf",
+        "1": "1",
+        "2": "phantom"
+      },
+      "name": "default"
+    }
+  }
+}

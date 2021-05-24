@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "assassin_gauntlet",
+        "1": "assassin_gautlet_blade"
+      },
+      "name": "default"
+    }
+  }
+}

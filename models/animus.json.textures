@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "animus_chair",
+        "1": "nimus_rm_and_cables"
+      },
+      "name": "default"
+    }
+  }
+}

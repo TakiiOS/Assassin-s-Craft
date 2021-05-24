@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hidden_blade_altar_vambrace",
+        "1": "hiden_blade_altair_blade"
+      },
+      "name": "default"
+    },
+    "xd": {
+      "map": {
+        "0": "hidden_blade_altar_vambrace",
+        "1": "hiden_blade_altair_blade"
+      },
+      "name": "xd"
+    }
+  }
+}

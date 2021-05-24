@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "assassins_creed_2",
+    "name": "Ezios Family",
+    "description": "Assassins Creed 2 OST Ezios Family",
+    "creativeTab": {
+      "value": "CUSTOM:AssassinsCreedProps"
+    },
+    "music": {
+      "value": "CUSTOM:assassins_creed_2_ezios_family"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

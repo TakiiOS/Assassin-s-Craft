@@ -1,0 +1,23 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "texture_0",
+        "12": "texture_animated_7",
+        "13": "texture_animated_8",
+        "1_0": "texture_10",
+        "14": "texture_animated_9",
+        "1_2": "texture_11",
+        "16": "table",
+        "17": "monitor_1",
+        "1": "texture_0",
+        "2": "texture_1",
+        "3": "texture_11",
+        "4": "texture_animated_8",
+        "5": "texture_animated_3",
+        "9": "texture_5"
+      },
+      "name": "default"
+    }
+  }
+}

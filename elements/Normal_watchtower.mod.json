@@ -1,0 +1,39 @@
+{
+  "_fv": 10,
+  "_type": "structure",
+  "definition": {
+    "structure": "basic_watchtower",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 4000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -1,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Italy1459",
+      "CUSTOM:Thethirdcrusade1189"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Nomanlands"
+      },
+      {
+        "value": "CUSTOM:ItalianPlains"
+      },
+      {
+        "value": "CUSTOM:SyrianPlains"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

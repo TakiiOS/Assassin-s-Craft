@@ -1,0 +1,24 @@
+{
+  "_fv": 10,
+  "_type": "structure",
+  "definition": {
+    "structure": "monterrigioni_a.craft_version_1.00_with_entities",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnWorldTypes": [
+      "CUSTOM:Italy1459"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ItalianPlains"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}
