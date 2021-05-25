@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombshay"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombshay"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombshay",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombshay",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombshay",
+      "y": 270
+    }
+  }
+}

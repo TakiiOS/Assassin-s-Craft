@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "assassincrown:blocks/hay_bale",
+    "up": "assassincrown:blocks/hay_bale",
+    "north": "assassincrown:blocks/hay_bale",
+    "east": "assassincrown:blocks/hay_bale",
+    "south": "assassincrown:blocks/hay_bale",
+    "west": "assassincrown:blocks/hay_bale",
+    "particle": "assassincrown:blocks/hay_bale"
+  }
+}

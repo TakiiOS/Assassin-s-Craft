@@ -1,0 +1,10 @@
+{
+  "parent": "assassincrown:custom/assassin_tomb_edward",
+  "textures": {
+    "all": "assassincrown:blocks/stone",
+    "particle": "assassincrown:blocks/stone",
+    "0": "assassincrown:blocks/calaca",
+    "1": "assassincrown:blocks/assasin_tomb",
+    "2": "assassincrown:blocks/stone"
+  }
+}

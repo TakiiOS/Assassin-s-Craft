@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombaltair"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombaltair"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombaltair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombaltair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombaltair",
+      "y": 270
+    }
+  }
+}

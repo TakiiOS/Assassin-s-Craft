@@ -1,0 +1,16 @@
+{
+  "group": "assassincrown",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "result": {
+    "item": "assassincrown:poisonblowgundart",
+    "count": 3
+  }
+}

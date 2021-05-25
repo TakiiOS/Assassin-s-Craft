@@ -1,0 +1,16 @@
+{
+  "group": "assassincrown",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "assassincrown:eaglefeather"
+    },
+    {
+      "item": "assassincrown:emptysyringe"
+    }
+  ],
+  "result": {
+    "item": "assassincrown:sryingeeaglevision",
+    "count": 1
+  }
+}

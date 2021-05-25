@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombconnor"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombconnor"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombconnor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombconnor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombconnor",
+      "y": 270
+    }
+  }
+}

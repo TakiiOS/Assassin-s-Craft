@@ -1,7 +1,7 @@
 [
   {
-    "modid": "assassins_craft",
-    "name": "Assassin´s Craft",
+    "modid": "assassincrown",
+    "name": "MinecrownAssassin",
     "description": "",
     "version": "1.0.0",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
@@ -10,7 +10,7 @@
     "url": "https://mcreator.net",
     "updateUrl": "",
     "authorList": [
-      "JoacoEmi"
+      "Taki"
     ],
     "dependencies": [],
     "dependants": [],

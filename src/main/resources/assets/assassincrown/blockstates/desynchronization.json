@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:desynchronization"
+    },
+    "facing=north": {
+      "model": "assassincrown:desynchronization"
+    },
+    "facing=east": {
+      "model": "assassincrown:desynchronization",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:desynchronization",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:desynchronization",
+      "y": 270
+    }
+  }
+}

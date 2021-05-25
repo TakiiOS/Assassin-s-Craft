@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "assassincrown:blocks/stone",
+    "up": "assassincrown:blocks/assasin_tomb_jacob",
+    "north": "assassincrown:blocks/stone",
+    "east": "assassincrown:blocks/stone",
+    "south": "assassincrown:blocks/stone",
+    "west": "assassincrown:blocks/stone",
+    "particle": "assassincrown:blocks/stone"
+  }
+}

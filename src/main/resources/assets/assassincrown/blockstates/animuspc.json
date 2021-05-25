@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:animuspc"
+    },
+    "facing=north": {
+      "model": "assassincrown:animuspc"
+    },
+    "facing=east": {
+      "model": "assassincrown:animuspc",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:animuspc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:animuspc",
+      "y": 270
+    }
+  }
+}

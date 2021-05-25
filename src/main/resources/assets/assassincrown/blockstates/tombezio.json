@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombezio"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombezio"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombezio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombezio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombezio",
+      "y": 270
+    }
+  }
+}

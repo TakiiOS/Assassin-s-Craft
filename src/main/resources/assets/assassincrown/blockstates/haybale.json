@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:haybale"
+    },
+    "facing=south": {
+      "model": "assassincrown:haybale"
+    },
+    "facing=north": {
+      "model": "assassincrown:haybale"
+    },
+    "facing=east": {
+      "model": "assassincrown:haybale",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "assassincrown:haybale",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "assassincrown:haybale",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "assassincrown:haybale",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

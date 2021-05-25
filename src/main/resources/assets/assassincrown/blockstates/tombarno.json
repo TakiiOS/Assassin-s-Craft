@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombarno"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombarno"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombarno",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombarno",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombarno",
+      "y": 270
+    }
+  }
+}

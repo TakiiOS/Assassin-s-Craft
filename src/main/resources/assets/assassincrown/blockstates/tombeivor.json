@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombeivor"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombeivor"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombeivor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombeivor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombeivor",
+      "y": 270
+    }
+  }
+}

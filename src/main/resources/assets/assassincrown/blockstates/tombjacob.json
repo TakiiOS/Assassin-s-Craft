@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "assassincrown:tombjacob"
+    },
+    "facing=north": {
+      "model": "assassincrown:tombjacob"
+    },
+    "facing=east": {
+      "model": "assassincrown:tombjacob",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "assassincrown:tombjacob",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "assassincrown:tombjacob",
+      "y": 270
+    }
+  }
+}
